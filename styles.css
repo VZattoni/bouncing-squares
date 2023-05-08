@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(80, 80, 80);
+    text-align: center;
+}
+
+#tela{
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+#square{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3.2rem;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    background-color: cornflowerblue;
+    position: absolute;
+    /* border: 1px solid red; */
+}
+
+
+#square1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3.2rem;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+}
+
+#status{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
